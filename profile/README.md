@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.imgur.com/gcOvt3T.png](https://github.com/Project-bharat/.github/blob/main/assets/1_20240211_204909_0000.jpg)" />
+  <img src="https://github.com/Project-bharat/.github/blob/main/assets/1_20240211_204909_0000.jpg" />
 </p>
 
 ### Introducing Project Bharat now based on Android 14 シ
